@@ -8,3 +8,11 @@
 
 
 2.maxSubarray
+3.containsDuplicate:
+  create hashset to assign each value a hash;
+  then check for num in array nums{:
+  if inset.conatins(num):
+  return true;
+  inset.add(num);
+  }
+  return false;
