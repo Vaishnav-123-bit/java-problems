@@ -8,7 +8,7 @@
 
 
 2.maxSubarray
-changes
+
 3.containsDuplicate:
   create hashset to assign each value a hash;
   then check for num in array nums{:
