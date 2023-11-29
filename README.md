@@ -6,7 +6,6 @@
   After calling the reverseArray function, the array will be reversed in place. You can then print the reversed array using       
   Arrays.toString(array).
 
-
 2.maxSubarray
 
 3.containsDuplicate:
