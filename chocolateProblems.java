@@ -1,3 +1,4 @@
+
 import java.util.*;
 public class chocolateProblems {
     static int chocolate(int []arr ,int n ,int m){
